@@ -26,3 +26,4 @@ avctl hosting push                 # upload only — does not restart
 - Do not use `logs -f` or `run -l` in automated loops (they hang).
 - Only `.py` and `.env` are uploaded as code; `README.md` is synced separately.
 - New deps must be in `avctl hosting packages` or deploy/push will fail.
+  
