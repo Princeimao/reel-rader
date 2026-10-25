@@ -1,0 +1,3 @@
+requests
+uagents
+uagents-core
